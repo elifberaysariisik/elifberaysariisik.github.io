@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,6 +14,11 @@
             font-weight: bold;
             margin-top: 20px;
             font-size: 1.5em;
+        }
+        .sub-title {
+            font-weight: bold;
+            margin-top: 15px;
+            font-size: 1.2em;
         }
         .achievement {
             display: flex;
@@ -40,7 +45,8 @@
 </head>
 <body>
     <div>
-        <div class="section-title">Volleyball Awards</div>
+        <div class="section-title">Sports Achievements</div>
+        <div class="sub-title">Volleyball</div>
         <div class="achievement"><span class="year">2008 – 2016</span><span class="competition">U17 Turkey Championship</span><span class="rank">3rd Place & 8th Place</span></div>
         <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">1st Place</span></div>
         <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
@@ -51,7 +57,8 @@
     </div>
 
     <div>
-        <div class="section-title">Painting Awards</div>
+        <div class="section-title">Artistic Achievements</div>
+        <div class="sub-title">Painting</div>
         <div class="achievement"><span class="year">2006 – 2013</span><span class="competition">VI. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">1st Place</span></div>
         <div class="achievement"><span class="year">2009 – 2010</span><span class="competition">Monami "Children and the Environment" Painting Competition</span><span class="rank">3rd Place</span></div>
         <div class="achievement"><span class="year">2009 – 2010</span><span class="competition">I. Dekofon Painting Competition</span><span class="rank">1st Place</span></div>
@@ -63,3 +70,4 @@
     </div>
 </body>
 </html>
+
