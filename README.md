@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,11 +8,12 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
+            margin: 20px;
         }
         .section-title {
             font-weight: bold;
             margin-top: 20px;
-            font-size: 1.2em;
+            font-size: 1.5em;
         }
         .achievement {
             display: flex;
@@ -25,37 +25,41 @@
         }
         .year {
             font-weight: bold;
+            flex: 1;
         }
-        .award {
-            font-weight: bold;
+        .competition {
+            font-style: italic;
+            flex: 3;
         }
-        .place {
-            font-size: 0.9em;
+        .rank {
+            flex: 1;
+            text-align: right;
+            color: gray;
         }
     </style>
 </head>
 <body>
     <div>
-        <div class="section-title">Sports Achievements</div>
-        <div class="achievement"><span class="year">2021 – 2022</span><span>Swimming Awards</span><span class="place">Bilkent University: 3rd Place (Backstroke 25m)</span></div>
-        <div class="achievement"><span class="year">2008 – 2016</span><span>Volleyball Awards</span><span class="place">U17 Turkey Championship: 3rd Place & 8th Place</span></div>
-        <div class="achievement"><span class="year">2015 – 2016</span><span>Kocaeli School Sports Volleyball U16 Girls Provincial Championship</span><span class="place">1st Place</span></div>
-        <div class="achievement"><span class="year">2015 – 2016</span><span>Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="place">1st Place</span></div>
-        <div class="achievement"><span class="year">2015 – 2016</span><span>Kocaeli U14 Girls' Volleyball Provincial Championship</span><span class="place">3rd Place</span></div>
-        <div class="achievement"><span class="year">2014 – 2015</span><span>Sakarya School Sports Volleyball U16 Girls Provincial Championship</span><span class="place">2nd Place</span></div>
-        <div class="achievement"><span class="year">2014 – 2015</span><span>Karabük School Sports Volleyball U16 Girls Provincial Championship</span><span class="place">2nd Place</span></div>
-        <!-- Add all other achievements similarly -->
+        <div class="section-title">Volleyball Awards</div>
+        <div class="achievement"><span class="year">2008 – 2016</span><span class="competition">U17 Turkey Championship</span><span class="rank">3rd Place & 8th Place</span></div>
+        <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U14 Girls' Volleyball Provincial Championship</span><span class="rank">3rd Place</span></div>
+        <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Sakarya School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Karabük School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">2nd Place</span></div>
+        <!-- Add the rest similarly -->
     </div>
 
     <div>
-        <div class="section-title">Artistic Achievements</div>
-        <div class="achievement"><span class="year">2006 – 2013</span><span>Painting Awards</span></div>
-        <div class="achievement"><span class="year">2009</span><span>VI. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="place">1st Place</span></div>
-        <div class="achievement"><span class="year">2009-2010</span><span>Monami "Children and the Environment" Painting Competition</span><span class="place">3rd Place</span></div>
-        <div class="achievement"><span class="year">2009-2010</span><span>I. Dekofon Painting Competition</span><span class="place">1st Place</span></div>
-        <div class="achievement"><span class="year">2010</span><span>VII. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="place">2nd Place</span></div>
-        <div class="achievement"><span class="year">2010</span><span>Painting Competition with the Theme "Love for Nature"</span><span class="place">2nd Place</span></div>
-        <!-- Add all other artistic achievements similarly -->
+        <div class="section-title">Painting Awards</div>
+        <div class="achievement"><span class="year">2006 – 2013</span><span class="competition">VI. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2009 – 2010</span><span class="competition">Monami "Children and the Environment" Painting Competition</span><span class="rank">3rd Place</span></div>
+        <div class="achievement"><span class="year">2009 – 2010</span><span class="competition">I. Dekofon Painting Competition</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2010</span><span class="competition">VII. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2010</span><span class="competition">Painting Competition with the Theme "Love for Nature"</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2010 – 2011</span><span class="competition">6th EMO "Electric Energy Conservation, Efficiency, and Its Impact on the Environment" Painting Competition by TMMOB</span><span class="rank">Honorable Mention</span></div>
+        <div class="achievement"><span class="year">2011</span><span class="competition">VIII. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">Honorable Mention</span></div>
+        <!-- Add the rest similarly -->
     </div>
 </body>
 </html>
