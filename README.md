@@ -98,7 +98,7 @@
 
                 <li><a href="https://www.ozgurkocaeli.com.tr/haber/4540436/yildiz-kizlar-voleybolda-23-nisan-ioosk-sampiyon" target="_blank">“Yıldız Kızlar Voleybolda 23 Nisan İÖOSK Şampiyon</a></li>
 
-                <li><a href="https://www.kocaeligazetesi.com.tr/haber/1333974/yildiz-kizlarda-sampiyon-edebali" target="_blank">“Yıldız Kızlarda Şampiyon Edebali” Swim Results</a></li>
+                <li><a href="https://www.kocaeligazetesi.com.tr/haber/1333974/yildiz-kizlarda-sampiyon-edebali" target="_blank">“Yıldız Kızlarda Şampiyon Edebali” </a></li>
 
             </ul>
         </div>
