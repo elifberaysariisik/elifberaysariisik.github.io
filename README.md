@@ -86,13 +86,20 @@
     </div>
 
      <div>
-        <div class="section-title">News</div>
+        <div class="section-title">Articles Featuring My Sports Accomplishments</div>
         <div class="news-links">
             <ul>
                 <li><a href="https://www.kocaeligazetesi.com.tr/haber/1411952/yildiz-kizlar-voleybolda-dev-final-yarina-ertelendi" target="_blank">Yıldız Kızlar Voleybolda Dev Final Yarın</a></li>
                 <li><a href="https://www.cagdaskocaeli.com.tr/haber/4701655/kucuk-kizlar-voleybolda-yari-finalistler-belli-oldu" target="_blank">Küçük Kızlar Voleybolda Yarı Finalistler Belli Oldu</a></li>
                 <li><a href="https://www.kocaeligazetesi.com.tr/haber/3616044/kucuk-kiz-voleybolda-yari-final-heyecani-bugun" target="_blank">Küçük Kız Voleybolda Yarı Final Heyecanı Bugün</a></li>
                 <li><a href="https://www.ozgurkocaeli.com.tr/haber/4483497/23-nisan-ioosk-izmir-yolcusu" target="_blank">23 Nisan IOÖSK İzmir Yolcusu</a></li>
+
+                <li><a href="http://bilnews.bilkent.edu.tr/bilkent-sports-games-swim-results/" target="_blank">“Bilkent Sports Games” Swim Results</a></li>
+
+                <li><a href="https://www.ozgurkocaeli.com.tr/haber/4540436/yildiz-kizlar-voleybolda-23-nisan-ioosk-sampiyon" target="_blank">“Yıldız Kızlar Voleybolda 23 Nisan İÖOSK Şampiyon</a></li>
+
+                <li><a href="https://www.kocaeligazetesi.com.tr/haber/1333974/yildiz-kizlarda-sampiyon-edebali" target="_blank">“Yıldız Kızlarda Şampiyon Edebali” Swim Results</a></li>
+
             </ul>
         </div>
     </div>
