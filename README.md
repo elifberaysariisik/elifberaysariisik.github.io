@@ -1,5 +1,4 @@
 
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -75,13 +74,15 @@
     <div>
         <div class="section-title">Artistic Achievements</div>
         <div class="sub-title">Painting</div>
-        <div class="achievement"><span class="year">2006 – 2013</span><span class="competition">VI. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2009</span><span class="competition">VI. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">1st Place</span></div>
         <div class="achievement"><span class="year">2009 – 2010</span><span class="competition">Monami "Children and the Environment" Painting Competition</span><span class="rank">3rd Place</span></div>
         <div class="achievement"><span class="year">2009 – 2010</span><span class="competition">I. Dekofon Painting Competition</span><span class="rank">1st Place</span></div>
         <div class="achievement"><span class="year">2010</span><span class="competition">VII. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">2nd Place</span></div>
         <div class="achievement"><span class="year">2010</span><span class="competition">Painting Competition with the Theme "Love for Nature"</span><span class="rank">2nd Place</span></div>
         <div class="achievement"><span class="year">2010 – 2011</span><span class="competition">6th EMO "Electric Energy Conservation, Efficiency, and Its Impact on the Environment" Painting Competition by TMMOB</span><span class="rank">Honorable Mention</span></div>
         <div class="achievement"><span class="year">2011</span><span class="competition">VIII. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">Honorable Mention</span></div>
+        <div class="achievement"><span class="year">2011 – 2012</span><span class="competition">4th HGGSSL "Fun at the Amusement Park" Painting Competition</span><span class="rank">3rd Place</span></div>
+        <div class="achievement"><span class="year">2013</span><span class="competition">X. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">2nd Place</span></div>
     </div>
 </body>
 </html>
