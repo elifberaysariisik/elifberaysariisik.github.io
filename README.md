@@ -84,6 +84,19 @@
         <div class="achievement"><span class="year">2011 – 2012</span><span class="competition">4th HGGSSL "Fun at the Amusement Park" Painting Competition</span><span class="rank">3rd Place</span></div>
         <div class="achievement"><span class="year">2013</span><span class="competition">X. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">2nd Place</span></div>
     </div>
+
+     <div>
+        <div class="section-title">News</div>
+        <div class="news-links">
+            <ul>
+                <li><a href="https://www.kocaeligazetesi.com.tr/haber/1411952/yildiz-kizlar-voleybolda-dev-final-yarina-ertelendi" target="_blank">Yıldız Kızlar Voleybolda Dev Final Yarın</a></li>
+                <li><a href="https://www.cagdaskocaeli.com.tr/haber/4701655/kucuk-kizlar-voleybolda-yari-finalistler-belli-oldu" target="_blank">Küçük Kızlar Voleybolda Yarı Finalistler Belli Oldu</a></li>
+                <li><a href="https://www.kocaeligazetesi.com.tr/haber/3616044/kucuk-kiz-voleybolda-yari-final-heyecani-bugun" target="_blank">Küçük Kız Voleybolda Yarı Final Heyecanı Bugün</a></li>
+                <li><a href="https://www.ozgurkocaeli.com.tr/haber/4483497/23-nisan-ioosk-izmir-yolcusu" target="_blank">23 Nisan IOÖSK İzmir Yolcusu</a></li>
+            </ul>
+        </div>
+    </div>
+    
 </body>
 </html>
 
