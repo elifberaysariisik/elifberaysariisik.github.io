@@ -1,4 +1,5 @@
 
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,14 +47,29 @@
 <body>
     <div>
         <div class="section-title">Sports Achievements</div>
+        <div class="sub-title">Swimming</div>
+        <div class="achievement"><span class="year">2021 – 2022</span><span class="competition">Bilkent University</span><span class="rank">3rd Place (Backstroke 25m)</span></div>
         <div class="sub-title">Volleyball</div>
         <div class="achievement"><span class="year">2008 – 2016</span><span class="competition">U17 Turkey Championship</span><span class="rank">3rd Place & 8th Place</span></div>
         <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">1st Place</span></div>
         <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
-        <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U14 Girls' Volleyball Provincial Championship</span><span class="rank">3rd Place</span></div>
+        <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="rank">3rd Place</span></div>
         <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Sakarya School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">2nd Place</span></div>
         <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Karabük School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">2nd Place</span></div>
-        <!-- Add the rest similarly -->
+        <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Kocaeli School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Bursa U16 Girls' Volleyball Provincial Championship</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Kocaeli U14 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2014 – 2015</span><span class="competition">Zonguldak U14 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2013 – 2014</span><span class="competition">Kocaeli U14 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2013 – 2014</span><span class="competition">Kocaeli School Sports Volleyball U14 Girls Provincial Championship</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2013 – 2014</span><span class="competition">Tekirdağ U14 Girls' Volleyball Provincial Championship</span><span class="rank">3rd Place</span></div>
+        <div class="achievement"><span class="year">2012 – 2013</span><span class="competition">Bilfen U12 Girls' Volleyball National Tournament</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2012 – 2013</span><span class="competition">Kocaeli U12 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2012 – 2013</span><span class="competition">Kocaeli U14 Girls' Volleyball Provincial Championship</span><span class="rank">2nd Place</span></div>
+        <div class="achievement"><span class="year">2012 – 2013</span><span class="competition">Kocaeli School Sports Volleyball U12 Girls Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2011 – 2012</span><span class="competition">Kocaeli U12 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
+        <div class="achievement"><span class="year">2011 – 2012</span><span class="competition">Kocaeli U14 Girls' Volleyball Provincial Championship</span><span class="rank">2nd Place</span></div>
     </div>
 
     <div>
@@ -66,7 +82,6 @@
         <div class="achievement"><span class="year">2010</span><span class="competition">Painting Competition with the Theme "Love for Nature"</span><span class="rank">2nd Place</span></div>
         <div class="achievement"><span class="year">2010 – 2011</span><span class="competition">6th EMO "Electric Energy Conservation, Efficiency, and Its Impact on the Environment" Painting Competition by TMMOB</span><span class="rank">Honorable Mention</span></div>
         <div class="achievement"><span class="year">2011</span><span class="competition">VIII. Özdilek "Children of the Republic" Themed Painting Competition</span><span class="rank">Honorable Mention</span></div>
-        <!-- Add the rest similarly -->
     </div>
 </body>
 </html>
