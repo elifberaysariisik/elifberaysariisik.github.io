@@ -48,8 +48,8 @@
         <div class="section-title">Sports Achievements</div>
         <div class="sub-title">Swimming</div>
         <div class="achievement"><span class="year">2021 – 2022</span><span class="competition">Bilkent University</span><span class="rank">3rd Place (Backstroke 25m)</span></div>
-        <div class="sub-title">Volleyball</div>
-        <div class="achievement"><span class="year">2008 – 2016</span><span class="competition">U17 Turkey Championship</span><span class="rank">3rd Place & 8th Place</span></div>
+        <div class="sub-title">Volleyball(2008-2016)</div>
+        <div class="achievement"><span class="year">2016 – 2017</span><span class="competition">U17 Turkey Championship</span><span class="rank">3rd Place & 8th Place</span></div>
         <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli School Sports Volleyball U16 Girls Provincial Championship</span><span class="rank">1st Place</span></div>
         <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="rank">1st Place</span></div>
         <div class="achievement"><span class="year">2015 – 2016</span><span class="competition">Kocaeli U16 Girls' Volleyball Provincial Championship</span><span class="rank">3rd Place</span></div>
