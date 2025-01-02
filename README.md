@@ -100,6 +100,8 @@
 
                 <li><a href="https://www.kocaeligazetesi.com.tr/haber/1333974/yildiz-kizlarda-sampiyon-edebali" target="_blank">“Yıldız Kızlarda Şampiyon Edebali” </a></li>
 
+                <li><a href="https://www.bizimyaka.com/haber/3141097/edebali-ve-seymen-8-boru-sampiyon" target="_blank">“Edebali ve Seymen 8. Boru şampiyon” </a></li>
+
             </ul>
         </div>
     </div>
