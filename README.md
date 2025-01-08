@@ -10,6 +10,7 @@
             line-height: 1.6;
             margin: 20px;
         }
+        
         .section-title {
             font-weight: bold;
             margin-top: 20px;
@@ -45,6 +46,7 @@
 </head>
 <body>
     <div>
+    <!-- test -->
         <div class="section-title">Sports Achievements</div>
         <div class="sub-title">Swimming</div>
         <div class="achievement"><span class="year">2021 – 2022</span><span class="competition">Bilkent University</span><span class="rank">3rd Place (Backstroke 25m)</span></div>
