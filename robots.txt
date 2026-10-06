@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elifberaysariisik.github.io/sitemap.xml
